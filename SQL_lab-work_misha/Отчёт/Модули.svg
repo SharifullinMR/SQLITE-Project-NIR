@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="145.00177mm"
+   height="36.442081mm"
+   viewBox="0 0 145.00177 36.442081"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker7"
+       refX="5.5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3"
+       refX="5.5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="5.5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.3"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linejoin:round"
+     x="53.628712"
+     y="9.3274813"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.628712"
+       y="9.3274813">Просмотр грантов</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linejoin:round"
+     x="53.588184"
+     y="2.3844273"
+     id="text1-3"><tspan
+       sodipodi:role="line"
+       id="tspan1-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.588184"
+       y="2.3844273">Основной модуль</tspan></text>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1"
+     width="35.017017"
+     height="6.44485"
+     x="51.476841"
+     y="5.0755935" />
+  <text
+     xml:space="preserve"
+     style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linejoin:round"
+     x="1.8919516"
+     y="9.3274813"
+     id="text1-8"><tspan
+       sodipodi:role="line"
+       id="tspan1-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1.8919516"
+       y="9.3274813">Просмотр таблиц БД</tspan></text>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.27913;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1-1"
+     width="38.850864"
+     height="6.44485"
+     x="0.13956352"
+     y="5.0755935" />
+  <text
+     xml:space="preserve"
+     style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.265;stroke-linejoin:round;stroke-dasharray:none"
+     x="122.7784"
+     y="7.4370055"
+     id="text1-8-0"><tspan
+       sodipodi:role="line"
+       id="tspan1-8-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+       x="122.7784"
+       y="7.4370055">Анализ распределений</tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+       x="122.7784"
+       y="11.427228"
+       id="tspan2">НИР</tspan></text>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.368782;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1-1-9"
+     width="43.344208"
+     height="10.08343"
+     x="101.47317"
+     y="3.2299397" />
+  <text
+     xml:space="preserve"
+     style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.265;stroke-linejoin:round;stroke-dasharray:none"
+     x="68.658997"
+     y="30.38133"
+     id="text1-8-0-4"><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+       x="68.658997"
+       y="30.38133"
+       id="tspan2-0">Выделение</tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+       x="68.658997"
+       y="34.371555"
+       id="tspan3">финансирования</tspan></text>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.368782;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1-1-9-4"
+     width="43.344208"
+     height="10.08343"
+     x="47.353771"
+     y="26.174261" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
+     d="M 51.476837,8.2980174 H 38.990427"
+     id="path1" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3)"
+     d="m 86.49386,8.2980174 14.97931,-0.02635"
+     id="path2" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7)"
+     d="m 68.98535,11.520444 0.0405,14.653815"
+     id="path4" />
+</svg>

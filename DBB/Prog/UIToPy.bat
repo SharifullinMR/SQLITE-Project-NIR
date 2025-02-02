@@ -1,0 +1,1 @@
+venv\Scripts\pyuic6.exe -x ui\grant_form.ui -o Grant_form.py

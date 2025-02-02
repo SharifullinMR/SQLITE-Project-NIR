@@ -1,0 +1,13 @@
+ПО ВУЗАМ (заменяем вуз на константу)
+Кол-во НИР по грантам: SELECT COUNT (*) from Gr_prog WHERE Gr_prog.z2 = "ВладГУ"
+Сумма планового финансирования: SELECT sum(G5) from Gr_prog WHERE Gr_prog.z2 = "ВладГУ"
+Кол-во конкурсов-грантов, в которых участвует ВУЗ: SELECT count(DISTINCT codkon) from Gr_prog WHERE Gr_prog.z2 = "ВладГУ"
+
+ПО Конкурсу (заменяем код на константу)
+Кол-во ВУЗов по грантам: SELECT SUM(g5) from Gr_prog WHERE Gr_prog.codkon = "01"
+Сумма планового финансирования: SELECT COUNT(*) from Gr_prog WHERE Gr_prog.codkon = "01"
+Кол-во ВУЗов, в которых есть этот грант: SELECT count(DISTINCT z2) from Gr_prog WHERE Gr_prog.codkon = "01"
+
+ПО субъектам (заменяем субъект на константу)
+Кол-во НИР: SELECT COUNT() FROM VUZ JOIN Gr_prog ON VUZ.z2 = Gr_prog.z2 WHERE VUZ.oblname = "Москва"
+Сумма планового финансирования: SELECT sum(g5) FROM Gr_prog JOIN VUZ ON VUZ.z2 = Gr_prog.z2 WHERE VUZ.oblname = "Кировская область"
